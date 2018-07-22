@@ -1,0 +1,6 @@
+﻿  DEVOLUPER.cpp
+e:\developer\c++\проги\devoluper\devoluper\devoluper.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\developer\c++\проги\devoluper\devoluper\devoluper.cpp(260): warning C4018: '<': signed/unsigned mismatch
+e:\developer\c++\проги\devoluper\devoluper\devoluper.cpp(283): warning C4018: '<': signed/unsigned mismatch
+  DEVOLUPER.vcxproj -> E:\DEVELOPER\C++\ПРОГИ\DEVOLUPER\Debug\DEVOLUPER.exe
+  DEVOLUPER.vcxproj -> E:\DEVELOPER\C++\ПРОГИ\DEVOLUPER\Debug\DEVOLUPER.pdb (Full PDB)
